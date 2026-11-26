@@ -23,3 +23,5 @@ show_list()
 add_number(30)
 find_number(15)
 show_list()
+
+print("Програма для роботи зі списками")
