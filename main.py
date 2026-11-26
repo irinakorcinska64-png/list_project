@@ -34,3 +34,5 @@ print("Кількість елементів:", len(numbers))
 
 numbers.sort()
 print("Відсортований список:", numbers)
+
+print("Перша копія проєкту")
